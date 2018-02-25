@@ -48,7 +48,7 @@ https://rawgit.com/TomKellyGenetics/vioplotx/master/vignettes/violin_ylog.html
 
 https://rawgit.com/TomKellyGenetics/vioplotx/master/vignettes/violin_split.html
 
-Vioplotx works in much the same manner as Vioplot
+vioplotx works in much the same manner as vioplot:
 
 * `vioplotx::vioplotx()` generates a violin plot takes the same arguments as `vioplotx::vioplotx()` to plot a violin for each group of variables.
 
@@ -56,7 +56,7 @@ Vioplotx works in much the same manner as Vioplot
 
 * `vioplotx::vioplotx()` can take vectorised forms of colour variables `col`, `border`, and `rectCol` to modify the colours separately for each violin respectively. This also applies to a new variable `lineCol` to modify the colour of the boxplots. 
 
-* `vioplox::vioplotx.formula()` is enabled to take formula and dataframe inputs as used for boxplot and stats operations.
+* `vioplotx::vioplotx.formula()` is enabled to take formula and dataframe inputs as used for boxplot and stats operations.
 
 * additional `areaEqual`, `plotCentre` and `side` options enables further customisation. 
 
