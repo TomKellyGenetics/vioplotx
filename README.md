@@ -2,13 +2,15 @@
 [![Travis Build Status](https://travis-ci.org/TomKellyGenetics/vioplotx.svg?branch=master)](https://travis-ci.org/TomKellyGenetics/vioplotx)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/TomKellyGenetics/vioplotx?branch=master&svg=true)](https://ci.appveyor.com/project/TomKellyGenetics/vioplotx)
 
-# Migration
+# vioplot development repository
 
-This is a development branch. The package has been migrated to:
+## Migration
+
+This is a development branch of the vioplot 0.3 release. The package has been migrated to:
 
 https://github.com/TomKellyGenetics/vioplot
 
-# Installation
+## Installation
 
 
 To get the current released version from CRAN:
@@ -24,7 +26,7 @@ To get the modified version from github:
 devtools::install_github("TomKellyGenetics/vioplotx")
 ```
 
-# Running
+## Running
 
 See the relevant vignette for more details:
 
@@ -48,6 +50,8 @@ https://rawgit.com/TomKellyGenetics/vioplotx/master/vignettes/violin_ylog.html
 
 https://rawgit.com/TomKellyGenetics/vioplotx/master/vignettes/violin_split.html
 
+## Functionality
+
 vioplotx works in much the same manner as vioplot:
 
 * `vioplotx::vioplotx()` generates a violin plot takes the same arguments as `vioplotx::vioplotx()` to plot a violin for each group of variables.
@@ -59,6 +63,8 @@ vioplotx works in much the same manner as vioplot:
 * `vioplotx::vioplotx.formula()` is enabled to take formula and dataframe inputs as used for boxplot and stats operations.
 
 * additional `areaEqual`, `plotCentre` and `side` options enables further customisation. 
+
+## Development and sources
 
 For development history prior to package documentation, see the original repo: https://github.com/TomKellyGenetics/R-violin-plot/commits?author=TomKellyGenetics
 
