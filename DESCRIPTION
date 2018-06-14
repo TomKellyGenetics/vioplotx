@@ -1,6 +1,6 @@
 Package: vioplotx
 Title: Enhanced Violin Plot
-Version: 0.0.0.9000
+Version: 0.2.0.9000
 Author: Tom Kelly <tom.kelly@postgrad.otago.ac.nz>
 Maintainer: Tom Kelly <tom.kelly@postgrad.otago.ac.nz>
 Description: A violin plot is a combination of a box plot and a kernel density

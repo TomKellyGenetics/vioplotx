@@ -1,8 +1,15 @@
+# vioplot
+
+## Development Version 0.2.0.9001
+
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/vioplotx)](https://cran.r-project.org/package=vioplotx)
 [![Travis Build Status](https://travis-ci.org/TomKellyGenetics/vioplotx.svg?branch=master)](https://travis-ci.org/TomKellyGenetics/vioplotx)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/TomKellyGenetics/vioplotx?branch=master&svg=true)](https://ci.appveyor.com/project/TomKellyGenetics/vioplotx)
+[![Project Status: Moved to https://github.com/TomKellyGenetics/vioplot – The project has been moved to a new location, and the version at that location should be considered authoritative.](http://www.repostatus.org/badges/latest/moved.svg)](http://www.repostatus.org/#moved) to [https://github.com/TomKellyGenetics/vioplot](https://github.com/TomKellyGenetics/vioplot)
 
-# vioplot development repository
+### Violin Plots in R
+
+This package allows extensive customisation of violin plots. 
 
 ## Migration
 
